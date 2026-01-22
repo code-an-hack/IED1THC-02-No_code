@@ -60,10 +60,12 @@ finally {
 ```
 Installa node
 
-```brew install node```
+```powershell 
+brew install node```
 
 Copia il codice nel terminale 
 
-```node -e "setInterval(()=>process.stdout.write(Math.random()>0.5?'\\':'//'),1)"```
+``` powershell
+node -e "setInterval(()=>process.stdout.write(Math.random()>0.5?'\\':'//'),1)"```
 
 
