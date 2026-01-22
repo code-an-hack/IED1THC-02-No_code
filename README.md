@@ -23,9 +23,9 @@ Clear-Host
 [console]::CursorVisible = $false
 
 $art = @(
-    " (•‿•) "
-    "<(   )>"
-    ' /   \'
+" (•‿•) "
+"<(   )>"
+"  /   \"
 )
 
 $x = 0
@@ -54,8 +54,8 @@ try {
         Start-Sleep -Milliseconds 60
     }
 }
-    finally {
-    [console]::CursorVisible = $true
+finally {
+    [console]::CursorVisible = $true
 }
 ```
 Installa node
