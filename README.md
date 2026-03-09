@@ -1,6 +1,6 @@
 # One liners
 
-Assicurati di avere Homebrew installato. In Terminale:
+Assicurati di avere Node installato. In Terminale:
 
 
 ```bash
