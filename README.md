@@ -28,7 +28,7 @@ Premi invio.
 Premi Control + C
 
 <br/>
---- 
+
 <br/>
 
 # Windows
