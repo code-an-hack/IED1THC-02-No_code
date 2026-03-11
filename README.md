@@ -1,7 +1,7 @@
 # MacOs
 
 ## Creazione dello script
-Crea un file chiamato "ascii.py" in una cartella.
+Crea un file chiamato `ascii.py` in una cartella.
 
 Copia e incolla:
 ```bash
@@ -25,16 +25,14 @@ python3 ascii.py
 Premi invio.
 
 ## Interruzione
-Premi Control + C
+Premi `Control + C`
 
-<br/>
-
-<br/>
+<br/><br/>
 
 # Windows
 
 ## Creazione dello script
-Crea un file chiamato "ascii.ps1" in una cartella.
+Crea un file chiamato `ascii.ps1` in una cartella.
 
 Copia e incolla:
 ```bash
@@ -55,4 +53,5 @@ Scrivi:
 Premi invio.
 
 ## Interruzione
-Premi Control + C
+Premi `Control + C`
+<br/><br/>
